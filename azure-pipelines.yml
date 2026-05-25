@@ -11,9 +11,8 @@ pool:
 
 steps:
 - script: echo Hello, by next month i will get good salary job!
-  displayName: 'june-Month'
+  displayName: 'description1'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'july-month'
+  displayName: 'description2'
